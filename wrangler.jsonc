@@ -1,0 +1,9 @@
+{
+  // Cloudflare Worker that serves the static $ヤギ site from ./public
+  "name": "yagi-solana",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./public",
+    "not_found_handling": "single-page-application"
+  }
+}
