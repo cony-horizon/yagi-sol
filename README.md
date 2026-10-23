@@ -17,3 +17,5 @@ Build command: none. Deploy command: `npx wrangler deploy`.
 
 Coins in the ecosystem totals are listed in `ECO_COINS` inside `public/index.html`.
 Live prices, market caps and liquidity load from DexScreener in the browser, so numbers never need a redeploy.
+
+Last deploy trigger: 2026-10-23 19:23 JST
